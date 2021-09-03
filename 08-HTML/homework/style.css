@@ -1,0 +1,22 @@
+body{
+    background-image: url("https://www.freepik.es/vectores/fondo");
+    text-align: center;
+}
+
+h1{
+    color: #8a2be2;
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background: rgb(236, 193, 226);
+    margin: 50px;
+    padding: 50px;
+    border: 2px solid #8a2be2;
+}
+#spanId{
+    font-size: 18px;
+}
